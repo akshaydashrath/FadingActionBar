@@ -395,23 +395,14 @@
     </sdk-infos>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da43fe6c-33aa-4285-9192-5de2f70fa49f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__android_android_4_2_r1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_support_v4_r18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/fadingactionbar.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deployer/mercato-deployer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/gen-external-apklibs/~apklib-com.actionbarsherlock_actionbarsherlock_4.3.1.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/library/libs/android-support-v4.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/src/com/manuelpeinado/fadingactionbar/FadingActionBarHelper.java" afterPath="$PROJECT_DIR$/library/src/com/manuelpeinado/fadingactionbar/FadingActionBarHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/pom.xml" afterPath="$PROJECT_DIR$/library/pom.xml" />
-    </list>
+    <list default="true" id="da43fe6c-33aa-4285-9192-5de2f70fa49f" name="Default" comment="" />
     <ignored path="fadingactionbar.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="da43fe6c-33aa-4285-9192-5de2f70fa49f" time="1374850630329" ignored="false" />
     <file path="/pom.xml" changelist="da43fe6c-33aa-4285-9192-5de2f70fa49f" time="1374851385064" ignored="false" />
     <file path="/FadingActionBarHelper.java" changelist="da43fe6c-33aa-4285-9192-5de2f70fa49f" time="1374851257830" ignored="false" />
+    <file path="$PROJECT_DIR$/../android-client.git/app/src/main/java/com/gumtree/android/srp/SRPListFragment.java" changelist="da43fe6c-33aa-4285-9192-5de2f70fa49f" time="1374851717107" ignored="false" />
+    <file path="/SRPListFragment.java" changelist="da43fe6c-33aa-4285-9192-5de2f70fa49f" time="1374851717107" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
